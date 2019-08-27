@@ -1,0 +1,1 @@
+app(astar astar.cpp)
